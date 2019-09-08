@@ -1,0 +1,76 @@
+[
+  {
+    "line": 20,
+    "elements": [
+      {
+        "line": 24,
+        "name": "I want to login",
+        "description": "",
+        "id": "testing|;i-want-to-login",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 25,
+            "name": "Here we are on login page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 26,
+            "name": "i Enter username as\"testuser\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 27,
+            "name": "i Enter password as\"Password01\"",
+            "match": {},
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 28,
+            "name": "I am logged in",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag"
+          },
+          {
+            "name": "@tag1"
+          }
+        ]
+      }
+    ],
+    "name": "testing|",
+    "description": "  I want to use this template for my feature file",
+    "id": "testing|",
+    "keyword": "Feature",
+    "uri": "C:/Users/aksha/eclipse-workspace/CucumberTest/src/test/feature/cucumbertest.feature",
+    "tags": [
+      {
+        "name": "@tag",
+        "type": "Tag",
+        "location": {
+          "line": 19,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
